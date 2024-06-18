@@ -10,7 +10,12 @@
 
 # 📁 Acesso e Utilização
 
-**O acesso do código pode ser dado pelo download do arquivo *Projeto PCD - Oficial(1)* do GitHub e utilização em linguagem Python. Rode as células com as bibliotecas, as células de cada função e, posteriormente, a célula com o menu. Após rodar a célula com o menu, siga as instruções no menu seguindo o seu desejo em relação a funcionalidade do código**
+**O acesso do código pode ser dado pelo download do arquivo *Projeto PCD - Oficial(1).ipynb* no GitHub e utilização em linguagem Python. Rode as células com as bibliotecas, as células de cada função e, posteriormente, a célula com o menu. Após rodar a célula com o menu, siga as instruções no menu seguindo o seu desejo em relação a funcionalidade do código**
+**Além disso, as funções de 'plotagem' de gráficos e cálculo de área inferior podem ser obtidas separadamente via download dos arquivos dispostos no GitHub, de nomes:**
+    - Plotar gráficos: plot_graficos.ipynb
+    - Calcular área sob o gráfico: Função calculo da área.ipynb
+    - Descrever os valores dos picos de absorbância: achar_picos.ipynb 
+    - 
 
 # ⚙️ Funcionalidades
 
