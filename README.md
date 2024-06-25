@@ -6,16 +6,17 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>  [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) 
 
 # 📄 Descrição do projeto
-**O projeto foi realizado com o intuito de ser uma utilidade possível para análise de gráficos comumente obtidos no âmbito cinentífico, além da utilização de fatores e propriedades pertinentes aos gráficos plotados para utilizar das diferentes funcionalidades viáveis e adquirir valores que estão ligados ao âmbito físico-químico**  
+**O projeto foi realizado com o intuito de ser uma utilidade possível para análise de gráficos comumente obtidos no âmbito cinentífico, além da utilização de fatores e propriedades pertinentes aos gráficos plotados para utilizar das diferentes funcionalidades viáveis e adquirir valores que estão ligados ao âmbito físico-químico.**  
 
 # 📁 Acesso e Utilização
 
-**O acesso do código pode ser dado pelo download do arquivo *Projeto PCD - Oficial(1).ipynb* no GitHub e utilização em linguagem Python. Rode as células com as bibliotecas, as células de cada função e, posteriormente, a célula com o menu. Após rodar a célula com o menu, siga as instruções no menu seguindo o seu desejo em relação a funcionalidade do código**
-**Além disso, as funções de 'plotagem' de gráficos e cálculo de área inferior podem ser obtidas separadamente via download dos arquivos dispostos no GitHub, de nomes:**
-    - Plotar gráficos: plot_graficos.ipynb
-    - Calcular área sob o gráfico: Função calculo da área.ipynb
-    - Descrever os valores dos picos de absorbância: achar_picos.ipynb 
-    - 
+**O acesso do código pode ser dado pelo download do arquivo *Projeto PCD - Oficial(1).ipynb* no GitHub e utilização em linguagem Python. Rode as células com as bibliotecas, as células de cada função e, posteriormente, a célula com o menu. Após rodar a célula com o menu, siga as instruções no menu seguindo o seu desejo em relação a funcionalidade do código.**
+**Além disso, as funções podem ser obtidas separadamente via download dos arquivos dispostos no GitHub, de nomes:**
+
+- **Plotar gráficos: plot_graficos.ipynb;**
+- **Calcular área sob o gráfico: Função calculo da área.ipynb;**
+- **Descrever os valores dos picos de absorbância: achar_picos.ipynb**
+- **Calcular a deconvolução gaussiana do gráfico: plt_gaussianas.ipynb**
 
 # ⚙️ Funcionalidades
 
@@ -54,10 +55,10 @@
 - **ChatGPT**
 
 # 🫂 Agradecimentos
-- **Profº Dr. Leandro Lemos - Professor responsável pela disciplina na qual tal trabalho foi desenvolvido**
+- **Profº Dr. Leandro Lemos - Professor responsável pela disciplina na qual tal trabalho foi desenvolvido.**
     - **GitHub: <https://github.com/llemos>**
-- **Profº Dr. Felipe Crasto - Professor responsável por auxiliar os desenvolvedores no avanço e possibilidade de realização do código**
-- **Duanny Onorio - Ajudante responsável por auxiliar no desenvolvimento do código e caracterização da página do GitHub**
+- **Profº Dr. Felipe Crasto - Professor responsável por auxiliar os desenvolvedores no avanço e possibilidade de realização do código.**
+- **Duanny Onorio - Ajudante responsável por auxiliar no desenvolvimento do código e caracterização da página do GitHub.**
 
 # 👨‍💻 Desenvolvedores
 
